@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sathya.springex.JavaBasedConfig1.MessageService"/>
+    <fullyQualifiedTypeName name="com.sathya.springex.JavaBasedConfig1.CourseServicce"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.sathya.springex.JavaBasedConfig1.EmailServices"/>
+    <fullyQualifiedTypeName name="com.sathya.springex.JavaBasedConfig1.JavaCourseService"/>
+    <fullyQualifiedTypeName name="com.sathya.springex.JavaBasedConfig1.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+</qualifiedTypeNameHistroy>
